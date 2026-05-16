@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Aguilar,%20Lance%20Dwight%20B.&fontSize=35&animation=fade&fontAlignY=40" alt="Banner" />
-</p>
-
 ## 🚀 About Me
 
 I am Lance Dwight B. Aguilar, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
