@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-<p align="left">
+<p align="center">
   <img src="Aguilar.png" width="180" align="right" alt="Profile Picture" style="margin-left: 20px; border-radius: 15px; border: 3px solid #007acc;">
 </p>
 
