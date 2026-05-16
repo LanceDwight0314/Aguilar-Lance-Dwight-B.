@@ -1,21 +1,24 @@
-# Hi there, I'm Juan Dela Cruz 👋
+# Hi there, I'm Aguilar, Lance Dwight B. 👋
+![Alternative text here](Aguilar.png)
+<p align="center">
+  <img src="avatar.png" width="200" alt="Profile Picture">
+</p>
 
 ## About Me
-I am **Juan Dela Cruz**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
+I am Lance Dwight B. Aguilar, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
 ---
 
 ## 🎓 Education
-**Bachelor of Science in Information Technology**  
+Bachelor of Science in Information Technology
 New Era University  
 2021 - Present
 
 ---
 
 ## 📜 Certifications
-- [NoSQL and DBaaS 101](https://catalog-education.oracle.com/)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d8f0fe988b4d4beca50aaeca75374277#)
+- [Certificate for Gemini University Student](https://edu.google.accredible.com/dbef5684-3678-4399-bd72-544cedb374f8#acc.1WHS5vsC)
 
 ---
 
@@ -37,7 +40,7 @@ New Era University
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Juan Dela Cruz](https://www.linkedin.com/in/lance-dwight-a4543a40b/)
+- LinkedIn: [Aguilar, Lance Dwight B.](https://www.linkedin.com/in/lance-dwight-a4543a40b/)
 - Email: lancedwight0314@gmail.com
 
 ---
