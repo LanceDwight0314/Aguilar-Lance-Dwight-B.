@@ -1,14 +1,16 @@
 # Hi there, I'm Aguilar, Lance Dwight B. 👋
 
-
 ## About Me
+<p align="left">
+  <img src="Aguilar.jpg" width="200" align="right" alt="Profile Picture" style="margin-left: 20px; border-radius: 10px;">
+</p>
 I am Lance Dwight B. Aguilar, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
 ---
 
 ## 🎓 Education
 Bachelor of Science in Information Technology
-New Era University  git push -u origin main
+New Era University  
 2021 - Present
 
 ---
