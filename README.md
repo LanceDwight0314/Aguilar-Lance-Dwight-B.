@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 <p align="left">
-  <img src="Aguilar.jpg" width="180" align="right" alt="Profile Picture" style="margin-left: 20px; border-radius: 15px; border: 3px solid #007acc;">
+  <img src="Aguilar.png" width="180" align="right" alt="Profile Picture" style="margin-left: 20px; border-radius: 15px; border: 3px solid #007acc;">
 </p>
 
 I am Lance Dwight B. Aguilar, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
